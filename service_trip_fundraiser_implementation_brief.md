@@ -1,4 +1,4 @@
-# Lukas Service Trip Fundraiser — Implementation Brief
+# Service Trip Fundraiser — Implementation Brief
 
 ## 1. Purpose
 
